@@ -54,28 +54,113 @@ The Executive Committee shall be responsible for managing and administering the 
 
 ### The Committee shall include:
 - President
-- Vice President (Research)
-- Vice President (Competition and Events)
-- Vice President (Computer Vision)
-- Vice President (Natural Language Processing)
+- Vice President (Research Wing)
+- Vice President (Competition Wing)
 - General Secretary
 - Joint Secretary
 - Treasurer
 - Public Relations Officer
-- Event Coordinator(s)
-- Sub-domain Leads (Machine Learning)
-- Sub-domain Leads (Deep Learning)
-- Sub-domain Leads (Computer Vision)
-- Sub-domain Leads (Natural Language Processing)
-- Technical Leads
+- Assistant Public Relations Officer
+- Media & Design Lead
+- Event Coordinator
+- Workshop Manager
+- Mentorship & Progress Coordinator
+- Sub-domain Lead (Machine Learning)
+- Sub-domain Co-Lead (Machine Learning)
+- Sub-domain Lead (Deep Learning)
+- Sub-domain Co-Lead (Deep Learning)
+- Sub-domain Lead (Computer Vision)
+- Sub-domain Co-Lead (Computer Vision)
+- Sub-domain Lead (Natural Language Processing)
+- Sub-domain Co-Lead (Natural Language Processing)
+- Technical Lead (Website)
+- Technical Lead (Resources)
 
 ### Duties:
-- The **President** shall oversee all club operations and represent the Club in official matters.
-- The **Vice Presidents** shall manage research initiatives and competitive activities respectively.
-- The **General Secretary** shall maintain records and coordinate communications.
-- The **Treasurer** shall handle finances and prepare expenditure reports.
-- The **PRO** shall manage outreach, collaborations, and media communications.
-- The **Event Coordinators and Technical Leads** shall organize workshops, competitions, and internal programs.
+## President
+- Oversees all club operations and strategic direction.
+- Represents the club in official matters with the department and external entities.
+- Ensures sustainability, long-term vision, and sustainability of the club.
+
+## Vice President (Research Wing)
+- Leads research-related activities including paper reading sessions, research collaborations, and supervised research projects.
+- Coordinates with faculty advisors and manages research groups.
+
+## Vice President (Competition Wing)
+- Organizes and trains members for Kaggle competitions, hackathons, AI Olympiads, and ML/DL contests.
+- Forms competition teams and provides strategic problem-solving guidance.
+
+## General Secretary
+- Manages internal communications, meeting agendas, schedules, and documentation.
+- Ensures smooth coordination between wings and tracks activity progress.
+- Ensures timely execution of planned events and workshops.
+
+## Joint Secretary
+- Assists the General Secretary and ensures workflow continuity during absence.
+- Helps coordinate between teams and supports administrative tasks.
+
+## Treasurer
+- Handles club finances, budgets, sponsorships, and expense logs.
+- Ensures transparency and gets all expenditures approved by advisors.
+
+## Public Relations Officer (PRO)
+- Handles external communication, collaborations, partnerships, and invitations for guest speakers.
+- Represents the club publicly on networking platforms.
+
+## Assistant Public Relations Officer
+- Supports the PRO in all outreach and communication tasks.
+- Maintains contact lists and manages follow-ups.
+
+## Media Design & Content Lead
+- Creates the club’s visual identity: posters, graphics, event branding, promotional content.
+- Writes announcements
+
+## Event Coordinator
+- Plans and organizes events, workshops, seminars, recruitment, and competitions.
+- Manages logistical arrangements such as venue booking and equipment.
+
+## Workshop Manager
+- Oversees workshop flow, session schedule, resource preparation, and attendance support.
+- Ensures materials and slides are consistent and beginner-friendly.
+
+## Mentorship & Progress Coordinator
+- Assigns mentors to new members and tracks learning progress.
+- Conducts regular check-ins, progress evaluations, and improvement follow-ups.
+
+## Sub-domain Lead (Machine Learning)
+- Conducts ML foundation sessions and guides project development.
+- Defines learning paths and assigns tasks.
+
+## Sub-domain Co-Lead (Machine Learning)
+- Supports the Lead in conducting sessions, reviewing notebooks, and mentoring juniors.
+- Steps in as acting lead when required.
+
+## Sub-domain Lead (Deep Learning)
+- Leads hands-on training on neural networks, PyTorch/TensorFlow, and related projects.
+- Organizes deep learning code labs and architecture study sessions.
+
+## Sub-domain Co-Lead (Deep Learning)
+- Assists in implementation reviews, debugging, and helping members with training pipelines.
+
+## Sub-domain Lead (Computer Vision)
+- Conducts CV-focused training sessions and competition prep for detection, segmentation, tracking, etc.
+- Oversees CV project group.
+
+## Sub-domain Co-Lead (Computer Vision)
+- Helps members reproduce CV research papers and assists in model debugging.
+
+## Sub-domain Lead (Natural Language Processing)
+- Guides NLP teams through tokenization, embeddings, LLM fine-tuning, and text-based competitions.
+- Runs NLP research and application workshops.
+
+## Sub-domain Co-Lead (Natural Language Processing)
+- Supports training, assists in building datasets and model pipelines, and reviews member work.
+
+## Technical Lead (Website & Portal)
+- Develops and maintains the club website, dashboard, event pages, and internal portals.
+
+## Technical Lead (Resources & GitHub Repository)
+- Manages learning materials, uploads workshop notebooks, organizes GitHub repositories, and ensures resource accessibility.
 
 ---
 
