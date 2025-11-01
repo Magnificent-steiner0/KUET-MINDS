@@ -14,12 +14,12 @@ We follow semantic versioning for our documentation:
 - **Patch (0)**: Content updates, corrections, and improvements
 - **Build (0)**: Minor fixes, typos, and formatting adjustments
 
-### What's Included in v1.0.0.0
+### What's Included in v1.1.0.0
 - Complete Machine Learning Syllabus (3 Levels)
 - Natural Language Processing Curriculum (3 Levels) 
+- Computer Vision Syllabus (3 Levels)
 - Structured learning paths with prerequisites
 - Hands-on projects and evaluation frameworks
-- Computer Vision track (Coming in v1.1.0.0)
 
 ## Course Structure
 
@@ -37,12 +37,19 @@ We follow semantic versioning for our documentation:
 2. **Level 2**: Context Matters - Deep learning and sequence models
 3. **Level 3**: Attention is All You Need - Transformers and modern NLP
 
+### Computer Vision Track
+**Duration**: 18+ days | **Projects**: 2 | **Levels**: 3
+
+1. **Level 1**: Vision Basics - Image processing and classical techniques
+2. **Level 2**: Deep Vision - CNNs and advanced architectures
+3. **Level 3**: Vision Transformers & SOTA - Modern CV models and applications 
+
 ## Learning Outcomes
 
 Upon completion, students will be able to:
-- Build end-to-end ML/NLP pipelines from scratch
+- Build end-to-end ML/NLP/CV pipelines from scratch
 - Implement neural networks using PyTorch and TensorFlow
-- Apply state-of-the-art models (BERT, GPT, Transformers)
+- Apply state-of-the-art models (BERT, GPT, Transformers, Vision Transformers)
 - Create portfolio-ready projects with proper evaluation
 - Transition smoothly into specialized AI domains
 
@@ -54,13 +61,15 @@ Upon completion, students will be able to:
 - **Math**: Basic statistics, probability, linear algebra (recommended)
 - **Tools**: Jupyter Notebook, Git, VS Code
 
+
 ### Track-Specific Prerequisites
 - **ML Track**: Data structures, OOP concepts
 - **NLP Track**: ML fundamentals, classification/regression concepts
+- **CV Track**: ML fundamentals, image processing basics
 
 ## Getting Started
 
-1. **Choose Your Track**: Review prerequisites and select ML or NLP
+1. **Choose Your Track**: Review prerequisites and select ML, NLP, or CV
 2. **Set Up Environment**: Install required Python libraries
 3. **Follow the Syllabus**: Complete each level sequentially
 4. **Build Projects**: Apply knowledge through hands-on implementations
@@ -72,20 +81,23 @@ Upon completion, students will be able to:
 KUET-MINDS/
 ├── Common ML Syllabus.md          # Machine Learning curriculum
 ├── NLP Syllabus.md                # Natural Language Processing curriculum  
+├── CV Syllabus.md                 # Computer Vision curriculum
 ├── assessments/                   # Evaluation criteria and rubrics
 └── README.md                      # This documentation
 ```
 
 ## Version History
 
-### v1.0.0.0 (Current) - October 2025
+### v1.0.0.0  - October 2025
 - Initial release of ML and NLP curricula
 - Established 3-level progressive learning structure
 - Added comprehensive project guidelines
 - Defined prerequisites and learning outcomes
 
-### Upcoming Releases
-- **v1.1.0.0**: Computer Vision track addition
+### v1.1.0.0 - November 2025
+- Release of Computer Vision Syllabus
+- Updated documentation and repository structure
+
 
 ## Contributing
 
