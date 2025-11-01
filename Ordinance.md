@@ -61,18 +61,10 @@ The Executive Committee shall be responsible for managing and administering the 
 - Treasurer
 - Public Relations Officer
 - Assistant Public Relations Officer
-- Media & Design Lead
 - Event Coordinator
 - Workshop Manager
-- Mentorship & Progress Coordinator
-- Sub-domain Lead (Machine Learning)
-- Sub-domain Co-Lead (Machine Learning)
-- Sub-domain Lead (Deep Learning)
-- Sub-domain Co-Lead (Deep Learning)
-- Sub-domain Lead (Computer Vision)
-- Sub-domain Co-Lead (Computer Vision)
-- Sub-domain Lead (Natural Language Processing)
-- Sub-domain Co-Lead (Natural Language Processing)
+- Sub-domain Lead(s)
+- Sub-domain Co-Lead(s)
 - Technical Lead (Website)
 - Technical Lead (Resources)
 
@@ -111,10 +103,6 @@ The Executive Committee shall be responsible for managing and administering the 
 - Supports the PRO in all outreach and communication tasks.
 - Maintains contact lists and manages follow-ups.
 
-## Media Design & Content Lead
-- Creates the club’s visual identity: posters, graphics, event branding, promotional content.
-- Writes announcements
-
 ## Event Coordinator
 - Plans and organizes events, workshops, seminars, recruitment, and competitions.
 - Manages logistical arrangements such as venue booking and equipment.
@@ -123,38 +111,17 @@ The Executive Committee shall be responsible for managing and administering the 
 - Oversees workshop flow, session schedule, resource preparation, and attendance support.
 - Ensures materials and slides are consistent and beginner-friendly.
 
-## Mentorship & Progress Coordinator
-- Assigns mentors to new members and tracks learning progress.
-- Conducts regular check-ins, progress evaluations, and improvement follow-ups.
+## Sub-domain Lead(s)
+- Responsible for planning and conducting learning sessions, workshops, and project-based study activities within their assigned technical domain (e.g., Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, etc.).
+- Creates structured learning paths, recommends study materials, assigns weekly tasks, and ensures consistent progress among members.
+- Guides members in hands-on implementations, competition preparation, and beginner-to-advanced skill development.
+- Works closely with the Mentorship & Progress Coordinator to monitor engagement and member growth.
 
-## Sub-domain Lead (Machine Learning)
-- Conducts ML foundation sessions and guides project development.
-- Defines learning paths and assigns tasks.
-
-## Sub-domain Co-Lead (Machine Learning)
-- Supports the Lead in conducting sessions, reviewing notebooks, and mentoring juniors.
-- Steps in as acting lead when required.
-
-## Sub-domain Lead (Deep Learning)
-- Leads hands-on training on neural networks, PyTorch/TensorFlow, and related projects.
-- Organizes deep learning code labs and architecture study sessions.
-
-## Sub-domain Co-Lead (Deep Learning)
-- Assists in implementation reviews, debugging, and helping members with training pipelines.
-
-## Sub-domain Lead (Computer Vision)
-- Conducts CV-focused training sessions and competition prep for detection, segmentation, tracking, etc.
-- Oversees CV project group.
-
-## Sub-domain Co-Lead (Computer Vision)
-- Helps members reproduce CV research papers and assists in model debugging.
-
-## Sub-domain Lead (Natural Language Processing)
-- Guides NLP teams through tokenization, embeddings, LLM fine-tuning, and text-based competitions.
-- Runs NLP research and application workshops.
-
-## Sub-domain Co-Lead (Natural Language Processing)
-- Supports training, assists in building datasets and model pipelines, and reviews member work.
+## Sub-domain Co-Lead(s)
+- Assists the Sub-domain Lead(s) in delivering sessions, managing study groups, reviewing code and project work.
+- Acts as a mentor for small member groups, providing direct support and helping resolve technical difficulties.
+- Serves as the Lead when required (e.g., absence or role transition), ensuring continuity and leadership development.
+- Works to gain mastery and experience with the goal of transitioning into Sub-domain Lead responsibilities in the future.
 
 ## Technical Lead (Website & Portal)
 - Develops and maintains the club website, dashboard, event pages, and internal portals.
