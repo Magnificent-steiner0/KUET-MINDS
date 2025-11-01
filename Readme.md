@@ -40,9 +40,10 @@ We follow semantic versioning for our documentation:
 ### Computer Vision Track
 **Duration**: 18+ days | **Projects**: 2 | **Levels**: 3
 
-1. **Level 1**: Vision Basics - Image processing and classical techniques
-2. **Level 2**: Deep Vision - CNNs and advanced architectures
-3. **Level 3**: Vision Transformers & SOTA - Modern CV models and applications 
+1. **Level 1**: Foundations of Visual Understanding
+2. **Level 2**: Vision Transformers and Modern Architectures
+3. **Level 3**: Generative Vision Models
+4. **Level 4**: Motion & 3D Vision
 
 ## Learning Outcomes
 
